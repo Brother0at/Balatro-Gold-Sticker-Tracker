@@ -96,6 +96,47 @@
     .joker-img:hover {
       filter: brightness(0.88) contrast(1.12) saturate(1.04);
     }
+    /* Hide scrollbars for all browsers */
+    html, body {
+      scrollbar-width: none; /* Firefox */
+      -ms-overflow-style: none; /* IE and Edge */
+      overflow: hidden !important;
+    }
+    html::-webkit-scrollbar, body::-webkit-scrollbar {
+      display: none; /* Chrome, Safari, Opera */
+    }
+    /* Optionally, allow scrolling but hide scrollbars visually */
+    #app {
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+    #app::-webkit-scrollbar {
+      display: none;
+    }
+    /* Joker card glow: soft, non-rectangular, emanating from card sides only */
+    .joker-card {
+      box-shadow:
+        0 0 36px 18px rgba(0,180,255,0.32), /* main glow */
+        0 0 64px 32px rgba(0,180,255,0.12), /* outer glow */
+        0 2px 12px 0 rgba(0,0,0,0.18);
+      border-radius: 18px;
+      background: none;
+      position: relative;
+      z-index: 1;
+      /* Remove default border/background */
+    }
+    .joker-card.green-glow {
+      box-shadow:
+        0 0 36px 18px rgba(80,255,120,0.32),
+        0 0 64px 32px rgba(80,255,120,0.12),
+        0 2px 12px 0 rgba(0,0,0,0.18);
+    }
+    .joker-card.red-glow {
+      box-shadow:
+        0 0 36px 18px rgba(255,60,60,0.32),
+        0 0 64px 32px rgba(255,60,60,0.12),
+        0 2px 12px 0 rgba(0,0,0,0.18);
+    }
   </style>
 </head>
 <body style="background: #353742;">

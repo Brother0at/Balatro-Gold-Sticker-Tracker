@@ -258,18 +258,20 @@ function renderJokers(filter = "", goldFilter = "all", rarityFilter = "all") {
     cardWrapper.style.width = "150px";
     cardWrapper.style.height = "220px";
     cardWrapper.style.cursor = "pointer";
-    // Add faint blue glow for select jokers
-    if (blueGlowJokers.includes(joker.name)) {
-      cardWrapper.style.boxShadow = "0 0 32px 8px rgba(0,180,255,0.22), 0 2px 12px 0 rgba(0,0,0,0.18)";
-    } else if (greenGlowJokers.includes(joker.name)) {
-      cardWrapper.style.boxShadow = "0 0 32px 8px rgba(80,255,120,0.22), 0 2px 12px 0 rgba(0,0,0,0.18)";
-    } else if (redGlowJokers.includes(joker.name)) {
-      cardWrapper.style.boxShadow = "0 0 32px 8px rgba(255,60,60,0.22), 0 2px 12px 0 rgba(0,0,0,0.18)";
-    }
+    cardWrapper.style.overflow = "visible"; // Allow glow to extend outside
+    cardWrapper.style.background = "none";
+    // Remove boxShadow from cardWrapper
 
     // Joker image
     const image = document.createElement("img");
     image.className = "joker-card";
+    if (blueGlowJokers.includes(joker.name)) {
+      image.classList.add("blue-glow");
+    } else if (greenGlowJokers.includes(joker.name)) {
+      image.classList.add("green-glow");
+    } else if (redGlowJokers.includes(joker.name)) {
+      image.classList.add("red-glow");
+    }
     image.src = joker.file;
     image.alt = joker.name;
     image.style.width = "160px";
@@ -277,6 +279,8 @@ function renderJokers(filter = "", goldFilter = "all", rarityFilter = "all") {
     image.style.position = "relative";
     image.style.display = "block";
     image.style.marginBottom = "0";
+    image.style.borderRadius = "18px";
+    image.style.zIndex = "2";
     cardWrapper.appendChild(image);
 
     // Gold sticker (if gold)

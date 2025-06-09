@@ -27,7 +27,7 @@
   {
     "name": "Astronomer",
     "file": "Assets/Joker Images/Jokers/Standard and Special/Astronomer.png",
-    "gold": true
+    "gold": false
   },
   {
     "name": "Banner",
@@ -272,7 +272,7 @@
   {
     "name": "Golden Ticket",
     "file": "Assets/Joker Images/Jokers/Standard and Special/Golden_Ticket.png",
-    "gold": false
+    "gold": true
   },
   {
     "name": "Greedy Joker",
