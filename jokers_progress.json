@@ -1,0 +1,722 @@
+[
+  {
+    "name": "8 Ball",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/8_Ball.png",
+    "gold": false
+  },
+  {
+    "name": "Abstract Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Abstract_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Acrobat",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Acrobat.png",
+    "gold": false
+  },
+  {
+    "name": "Ancient Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Ancient_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Arrowhead",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Arrowhead.png",
+    "gold": false
+  },
+  {
+    "name": "Astronomer",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Astronomer.png",
+    "gold": true
+  },
+  {
+    "name": "Banner",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Banner.png",
+    "gold": false
+  },
+  {
+    "name": "Baron",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Baron.png",
+    "gold": false
+  },
+  {
+    "name": "Baseball Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Baseball_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Blackboard",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Blackboard.png",
+    "gold": false
+  },
+  {
+    "name": "Bloodstone",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Bloodstone.png",
+    "gold": false
+  },
+  {
+    "name": "Blueprint",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Blueprint.png",
+    "gold": false
+  },
+  {
+    "name": "Blue Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Blue_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Bootstraps",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Bootstraps.png",
+    "gold": false
+  },
+  {
+    "name": "Brainstorm",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Brainstorm.png",
+    "gold": false
+  },
+  {
+    "name": "Bull",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Bull.png",
+    "gold": false
+  },
+  {
+    "name": "Burglar",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Burglar.png",
+    "gold": false
+  },
+  {
+    "name": "Burnt Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Burnt_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Business Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Business_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Campfire",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Campfire.png",
+    "gold": false
+  },
+  {
+    "name": "Card Sharp",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Card_Sharp.png",
+    "gold": false
+  },
+  {
+    "name": "Cartomancer",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Cartomancer.png",
+    "gold": false
+  },
+  {
+    "name": "Castle",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Castle.png",
+    "gold": false
+  },
+  {
+    "name": "Cavendish",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Cavendish.png",
+    "gold": false
+  },
+  {
+    "name": "Ceremonial Dagger",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Ceremonial_Dagger.png",
+    "gold": false
+  },
+  {
+    "name": "Certificate",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Certificate.png",
+    "gold": false
+  },
+  {
+    "name": "Chaos the Clown",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Chaos_the_Clown.png",
+    "gold": false
+  },
+  {
+    "name": "Clever Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Clever_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Cloud 9",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Cloud_9.png",
+    "gold": false
+  },
+  {
+    "name": "Constellation",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Constellation.png",
+    "gold": false
+  },
+  {
+    "name": "Crafty Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Crafty_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Crazy Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Crazy_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Credit Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Credit_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Delayed Gratification",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Delayed_Gratification.png",
+    "gold": false
+  },
+  {
+    "name": "Devious Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Devious_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Diet Cola",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Diet_Cola.png",
+    "gold": false
+  },
+  {
+    "name": "DNA",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/DNA.png",
+    "gold": false
+  },
+  {
+    "name": "Driver's License",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Driver's_License.png",
+    "gold": false
+  },
+  {
+    "name": "Droll Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Droll_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Drunkard",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Drunkard.png",
+    "gold": false
+  },
+  {
+    "name": "Dusk",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Dusk.png",
+    "gold": false
+  },
+  {
+    "name": "Egg",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Egg.png",
+    "gold": false
+  },
+  {
+    "name": "Erosion",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Erosion.png",
+    "gold": false
+  },
+  {
+    "name": "Even Steven",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Even_Steven.png",
+    "gold": false
+  },
+  {
+    "name": "Faceless Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Faceless_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Fibonacci",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Fibonacci.png",
+    "gold": false
+  },
+  {
+    "name": "Flash Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Flash_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Flower Pot",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Flower_Pot.png",
+    "gold": false
+  },
+  {
+    "name": "Fortune Teller",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Fortune_Teller.png",
+    "gold": false
+  },
+  {
+    "name": "Four Fingers",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Four_Fingers.png",
+    "gold": false
+  },
+  {
+    "name": "Gift Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Gift_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Glass Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Glass_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Gluttonous Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Gluttonous_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Golden Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Golden_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Golden Ticket",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Golden_Ticket.png",
+    "gold": false
+  },
+  {
+    "name": "Greedy Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Greedy_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Green Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Green_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Gros Michel",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Gros_Michel.png",
+    "gold": false
+  },
+  {
+    "name": "Hack",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hack.png",
+    "gold": false
+  },
+  {
+    "name": "Half Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Half_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Hallucination",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hallucination.png",
+    "gold": false
+  },
+  {
+    "name": "Hanging Chad",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hanging_Chad.png",
+    "gold": false
+  },
+  {
+    "name": "Hiker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hiker.png",
+    "gold": false
+  },
+  {
+    "name": "Hit the Road",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hit_the_Road.png",
+    "gold": false
+  },
+  {
+    "name": "Hologram",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Hologram.png",
+    "gold": false
+  },
+  {
+    "name": "Ice Cream",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Ice_Cream.png",
+    "gold": false
+  },
+  {
+    "name": "Invisible Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Invisible_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Joker Stencil",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Joker_Stencil.png",
+    "gold": false
+  },
+  {
+    "name": "Jolly Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Jolly_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Juggler",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Juggler.png",
+    "gold": false
+  },
+  {
+    "name": "Loyalty Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Loyalty_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Luchador",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Luchador.png",
+    "gold": false
+  },
+  {
+    "name": "Lucky Cat",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Lucky_Cat.png",
+    "gold": false
+  },
+  {
+    "name": "Lusty Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Lusty_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Madness",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Madness.png",
+    "gold": false
+  },
+  {
+    "name": "Mad Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Mad_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Mail in Rebate",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Mail-in_Rebate.png",
+    "gold": false
+  },
+  {
+    "name": "Marble Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Marble_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Matador",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Matador.png",
+    "gold": false
+  },
+  {
+    "name": "Merry Andy",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Merry_Andy.png",
+    "gold": false
+  },
+  {
+    "name": "Midas Mask",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Midas_Mask.png",
+    "gold": false
+  },
+  {
+    "name": "Mime",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Mime.png",
+    "gold": false
+  },
+  {
+    "name": "Misprint",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Misprint.png",
+    "gold": false
+  },
+  {
+    "name": "Mr. Bones",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Mr._Bones.png",
+    "gold": false
+  },
+  {
+    "name": "Mystic Summit",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Mystic_Summit.png",
+    "gold": false
+  },
+  {
+    "name": "Obelisk",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Obelisk.png",
+    "gold": false
+  },
+  {
+    "name": "Odd Todd",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Odd_Todd.png",
+    "gold": false
+  },
+  {
+    "name": "Onyx Agate",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Onyx_Agate.png",
+    "gold": false
+  },
+  {
+    "name": "Oops! All 6s",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Oops!_All_6s.png",
+    "gold": false
+  },
+  {
+    "name": "Pareidolia",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Pareidolia.png",
+    "gold": false
+  },
+  {
+    "name": "Photograph",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Photograph.png",
+    "gold": false
+  },
+  {
+    "name": "Popcorn",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Popcorn.png",
+    "gold": false
+  },
+  {
+    "name": "Raised Fist",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Raised_Fist.png",
+    "gold": false
+  },
+  {
+    "name": "Ramen",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Ramen.png",
+    "gold": false
+  },
+  {
+    "name": "Red Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Red_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Reserved Parking",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Reserved_Parking.png",
+    "gold": false
+  },
+  {
+    "name": "Ride the Bus",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Ride_the_Bus.png",
+    "gold": false
+  },
+  {
+    "name": "Riff Raff",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Riff-Raff.png",
+    "gold": false
+  },
+  {
+    "name": "Rocket",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Rocket.png",
+    "gold": false
+  },
+  {
+    "name": "Rough Gem",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Rough_Gem.png",
+    "gold": false
+  },
+  {
+    "name": "Runner",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Runner.png",
+    "gold": false
+  },
+  {
+    "name": "Satellite",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Satellite.png",
+    "gold": false
+  },
+  {
+    "name": "Scary Face",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Scary_Face.png",
+    "gold": false
+  },
+  {
+    "name": "Scholar",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Scholar.png",
+    "gold": false
+  },
+  {
+    "name": "Seance",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Seance.png",
+    "gold": false
+  },
+  {
+    "name": "Seeing Double",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Seeing_Double.png",
+    "gold": false
+  },
+  {
+    "name": "Seltzer",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Seltzer.png",
+    "gold": false
+  },
+  {
+    "name": "Shoot the Moon",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Shoot_the_Moon.png",
+    "gold": false
+  },
+  {
+    "name": "Shortcut",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Shortcut.png",
+    "gold": false
+  },
+  {
+    "name": "Showman",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Showman.png",
+    "gold": false
+  },
+  {
+    "name": "Sixth Sense",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Sixth_Sense.png",
+    "gold": false
+  },
+  {
+    "name": "Sly Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Sly_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Smeared Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Smeared_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Smiley Face",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Smiley_Face.png",
+    "gold": false
+  },
+  {
+    "name": "Sock and Buskin",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Sock_and_Buskin.png",
+    "gold": false
+  },
+  {
+    "name": "Space Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Space_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Spare Trousers",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Spare_Trousers.png",
+    "gold": false
+  },
+  {
+    "name": "Splash",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Splash.png",
+    "gold": false
+  },
+  {
+    "name": "Square Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Square_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Steel Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Steel_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Stone Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Stone_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Stuntman",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Stuntman.png",
+    "gold": false
+  },
+  {
+    "name": "Supernova",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Supernova.png",
+    "gold": false
+  },
+  {
+    "name": "Superposition",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Superposition.png",
+    "gold": false
+  },
+  {
+    "name": "Swashbuckler",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Swashbuckler.png",
+    "gold": false
+  },
+  {
+    "name": "The Duo",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Duo.png",
+    "gold": false
+  },
+  {
+    "name": "The Family",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Family.png",
+    "gold": false
+  },
+  {
+    "name": "The Idol",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Idol.png",
+    "gold": false
+  },
+  {
+    "name": "The Order",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Order.png",
+    "gold": false
+  },
+  {
+    "name": "The Tribe",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Tribe.png",
+    "gold": false
+  },
+  {
+    "name": "The Trio",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/The_Trio.png",
+    "gold": false
+  },
+  {
+    "name": "Throwback",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Throwback.png",
+    "gold": false
+  },
+  {
+    "name": "To Do List",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/To_Do_List.png",
+    "gold": false
+  },
+  {
+    "name": "To the Moon",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/To_the_Moon.png",
+    "gold": false
+  },
+  {
+    "name": "Trading Card",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Trading_Card.png",
+    "gold": false
+  },
+  {
+    "name": "Troubadour",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Troubadour.png",
+    "gold": false
+  },
+  {
+    "name": "Turtle Bean",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Turtle_Bean.png",
+    "gold": false
+  },
+  {
+    "name": "Vagabond",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Vagabond.png",
+    "gold": false
+  },
+  {
+    "name": "Vampire",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Vampire.png",
+    "gold": false
+  },
+  {
+    "name": "Walkie Talkie",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Walkie_Talkie.png",
+    "gold": false
+  },
+  {
+    "name": "Wily Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Wily_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Wrathful Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Wrathful_Joker.png",
+    "gold": false
+  },
+  {
+    "name": "Zany Joker",
+    "file": "Assets/Joker Images/Jokers/Standard and Special/Zany_Joker.png",
+    "gold": false
+  }
+]

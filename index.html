@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gold Sticker Tracker</title>
+  <style>
+    @font-face {
+      font-family: 'Balatro';
+      src: url('Assets/Balatro Font/balatro.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+    .balatro-title {
+      font-family: 'Balatro', sans-serif;
+      font-size: 3.2rem;
+      color: #ffe066;
+      text-align: center;
+      margin-top: 48px;
+      margin-bottom: 32px;
+      letter-spacing: 2px;
+      text-shadow: 0 2px 12px #000a, 0 1px 0 #bfae4a;
+      user-select: none;
+    }
+    .search-bar-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 32px auto 0 auto;
+      width: 340px;
+      position: relative;
+    }
+    #joker-search-bar {
+      display: block;
+      padding: 10px 54px 10px 18px;
+      width: 100%;
+      font-size: 1.1em;
+      border-radius: 8px;
+      border: 1px solid #ffe066;
+      background: #23272f;
+      color: #ffe066;
+      outline: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+      text-align: left;
+    }
+    #search-done-btn {
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #ffe066;
+      color: #181a20;
+      border: none;
+      border-radius: 6px;
+      font-weight: bold;
+      font-size: 1em;
+      padding: 6px 16px;
+      cursor: pointer;
+      box-shadow: 0 1px 4px #0003;
+      transition: background 0.15s;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    #search-done-btn:hover {
+      background: #d6b94d;
+    }
+    .filter-toggle {
+      margin-left: 18px;
+      color: #ffe066;
+      background: #23272f;
+      border: 1px solid #ffe066;
+      border-radius: 8px;
+      padding: 7px 14px;
+      font-size: 1em;
+      cursor: pointer;
+      transition: background 0.15s, color 0.15s;
+      font-weight: bold;
+    }
+    .filter-toggle.selected {
+      background: #ffe066;
+      color: #181a20;
+    }
+    body {
+      background: #353742;
+    }
+    /* Decrease brightness of joker images */
+    .joker-img {
+      filter: brightness(0.72) contrast(1.08) saturate(0.92);
+      transition: filter 0.18s;
+    }
+    .joker-img.gold {
+      /* If you want gold jokers to be a bit brighter, adjust here, or keep same */
+      filter: brightness(0.92) contrast(1.12) saturate(1.08) drop-shadow(0 0 8px #ffe066cc);
+    }
+    /* Optionally, on hover, slightly increase brightness for feedback */
+    .joker-img:hover {
+      filter: brightness(0.88) contrast(1.12) saturate(1.04);
+    }
+  </style>
+</head>
+<body style="background: #353742;">
+  <div class="search-bar-wrapper">
+    <input type="text" id="joker-search-bar" placeholder="Search jokers...">
+    <button id="search-done-btn">Done</button>
+    <button id="filter-all" class="filter-toggle selected">All</button>
+    <button id="filter-gold" class="filter-toggle">Gold</button>
+    <button id="filter-nongold" class="filter-toggle">Not Gold</button>
+  </div>
+  <h1 class="balatro-title">Gold Sticker Tracker</h1>
+  <div id="app"></div>
+  <script src="renderer.js"></script>
+</body>
+</html>
